@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcecrypt",
+        "uuid": 1623300,
+        "checksum": "tumkto"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
